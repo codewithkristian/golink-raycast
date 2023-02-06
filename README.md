@@ -4,4 +4,4 @@ To install, find your Scripts directory in the Raycast configuration, and then c
 
 For best results, add "go" as the script alias so you can effectively type "go <return> shortlink"
 
-![image](./github/images/screenshot.png)
+![image](./.github/images/screenshot.png)
